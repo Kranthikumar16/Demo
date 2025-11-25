@@ -1,1 +1,3 @@
 3rd file modified
+new line added
+second line added
